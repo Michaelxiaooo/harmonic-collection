@@ -1,0 +1,17 @@
+body {
+    color: #0000ff;
+    font-family: courier;
+  }
+  
+head {
+    color: red;
+  }
+
+  h1:hover {
+    color: pink
+  }
+
+  h2:hover {
+    color: yellowgreen
+
+  }
